@@ -1,4 +1,4 @@
-# Créé par poret3, le 25/04/2022 en Python 3.7
+# Créé par Mathys Poret, le 25/04/2022 en Python 3.7
 from tkinter import *
 import pyperclip as pc
 from tkinter import messagebox
